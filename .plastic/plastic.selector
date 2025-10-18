@@ -1,0 +1,4 @@
+repository "diwaliPrKaam/diwaliPrKaam@13469853040683@cloud"
+  path "/"
+    br "/main"
+    co "/main"
